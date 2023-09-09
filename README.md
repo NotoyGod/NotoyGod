@@ -12,5 +12,5 @@
 ```js
 console.log("hola tío")
 ```
-<br>
-<img src="https://tenor.com/bnxxr.gif" alt="loli bailando"></img>
+
+![](https://github.com/NotoyGod/NotoyGod/blob/main/loli-dance-cute.gif)
