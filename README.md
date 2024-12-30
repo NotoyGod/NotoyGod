@@ -23,13 +23,6 @@
 
 ---
 
-## 📫 Contáctame
-Si tienes preguntas, comentarios o quieres colaborar, ¡aquí me puedes encontrar!
-- [![Discord](https://img.shields.io/badge/Discord-Notoy%231234-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-
-
----
-
 ## 📊 Mis Estadísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NotoyVP&show_icons=true&theme=radical)
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=NotoyVP&layout=compact&theme=radical)
@@ -42,5 +35,23 @@ Si tienes preguntas, comentarios o quieres colaborar, ¡aquí me puedes encontra
 - Compartir conocimiento y apoyar a nuevos desarrolladores.
 
 ---
+---
+
+## 📫 Contáctame
+- 🌐 **Discord:**tuallaintima *(ID: 922685821558067232)*
+
+---
+
+## 🎨 Flono - Mi Estudio Creativo
+¡Bienvenidos a **Flono**! Un estudio dedicado a desarrollar herramientas y experiencias únicas para Minecraft y beyond. 🚀
+
+- 🌟 Innovación en diseño y desarrollo.
+- 🎮 Foco en addons, realms, y sistemas de PvP.
+- 🌍 Comunidad de creadores apasionados.
+
+¿Quieres ser parte de nuestra comunidad?  
+👉 **[Únete a nuestro Discord aquí](https://discord.gg/EDuD8yPM4W)** 👾
+
+
 
 **¡Gracias por visitar mi repositorio!** ✨
