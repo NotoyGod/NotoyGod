@@ -38,7 +38,7 @@
 ---
 
 ## 📫 Contáctame
-- 🌐 **Discord:**tuallaintima *(ID: 922685821558067232)*
+- 🌐 **Discord:** tuallaintima *(ID: 922685821558067232)*
 
 ---
 
